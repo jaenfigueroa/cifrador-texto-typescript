@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 1.6rem;
+  user-select: none;
+  font-family: 'Lato', sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+textarea::-webkit-scrollbar{
+  display: none;
+}

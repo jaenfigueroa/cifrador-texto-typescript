@@ -1,26 +1,6 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-size: 1.6rem;
-  user-select: none;
-  font-family: 'Lato', sans-serif;
-}
-html {
-  font-size: 62.5%;
-}
-textarea::-webkit-scrollbar{
-  display: none;
-}
+@import url('./reset.css');
+@import url('./variables.css');
 
-/* //////////////////////// */
-:root {
-  --gray1: #20232a;
-  --gray2: #282c34;
-  --gray3: #d1d1d1;
-  --white: #fff;
-  --skyblue: #61dafb;
-}
 /* //////////////////////// */
 body {
   display: flex;
