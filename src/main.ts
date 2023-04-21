@@ -67,3 +67,4 @@ if (
 } else {
   console.log('Algunos elementos del DOM no se encontraron o no tienen el tipo esperado.')
 }
+
