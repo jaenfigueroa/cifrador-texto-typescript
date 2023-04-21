@@ -1,4 +1,6 @@
-export const DICTIONARY: Record<string,string> = {
+import { Dictionary } from '../interfaces/Dictionary';
+
+export const DICTIONARY: Dictionary = {
   e: 'enter',
   i: 'imes',
   o: 'ober',
