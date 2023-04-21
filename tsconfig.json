@@ -13,7 +13,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "esModuleInterop": true /* NECESARIO PARA HACER TEST CON JEST, PORQUE ESTAMOS USANDO MODULOS EN TS */
   },
   "include": ["src", "src/js/main.ts"]
 }
