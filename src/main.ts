@@ -1,5 +1,4 @@
-import { encrypt } from './helpers/encrypt'
-import { decrypt } from './helpers/decrypt'
+import { encrypt, decrypt } from './modules/encryption'
 
 const input = document.querySelector<HTMLTextAreaElement>('#textarea1')
 const encryptButton = document.querySelector<HTMLButtonElement>('#encryptButton')
