@@ -1,4 +1,4 @@
-import { encrypt, decrypt } from '../js/modules/encryption';
+import { encrypt, decrypt } from '../ts/modules/encryption';
 
 test('Debe encriptar el texto', () => {
   expect(encrypt('jaenfigueroa'))
