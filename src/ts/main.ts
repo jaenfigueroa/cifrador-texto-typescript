@@ -61,7 +61,7 @@ const copyText = () => {
   navigator.clipboard.writeText(results.value)
 
   // ** cambiar estilos del boton
-  copyButtonShowMessage
+  copyButtonShowMessage()
 }
 
 // ELIMINAR CARACTERES NO ADMITIDOS
