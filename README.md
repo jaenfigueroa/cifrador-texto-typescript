@@ -7,10 +7,10 @@ Herramienta para cifrar y decrifrar textos
 </div>
 
 <div align="center" >
-<img src="https://img.shields.io/github/stars/jaenfigueroa/text-encriptor">
-<img src="https://img.shields.io/github/forks/jaenfigueroa/text-encriptor">
-<img src="https://img.shields.io/github/issues-pr/jaenfigueroa/text-encriptor">
-<img src="https://img.shields.io/github/issues/jaenfigueroa/text-encriptor">
+<img src="https://img.shields.io/github/stars/jaenfigueroa/cifrador-texto-typescript">
+<img src="https://img.shields.io/github/forks/jaenfigueroa/cifrador-texto-typescript">
+<img src="https://img.shields.io/github/issues-pr/jaenfigueroa/cifrador-texto-typescript">
+<img src="https://img.shields.io/github/issues/jaenfigueroa/cifrador-texto-typescript">
 
 </div>
 
@@ -78,6 +78,6 @@ Herramienta para cifrar y decrifrar textos
 
 ## 🌐 Sitio web
 
-Puedes ver el resultado [aqui](https://jaenfigueroa.github.io/text-encriptor/).
+Puedes ver el resultado [aqui](https://encriptador-typescript-jaenfigueroa.netlify.app/).
 
 <img src="https://octodex.github.com/images/welcometocat.png" style="width: 25%">
