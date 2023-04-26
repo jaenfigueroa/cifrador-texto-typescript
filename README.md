@@ -11,6 +11,7 @@ Herramienta para cifrar y decrifrar textos
 <img src="https://img.shields.io/github/forks/jaenfigueroa/cifrador-texto-typescript">
 <img src="https://img.shields.io/github/issues-pr/jaenfigueroa/cifrador-texto-typescript">
 <img src="https://img.shields.io/github/issues/jaenfigueroa/cifrador-texto-typescript">
+<a href="https://app.netlify.com/sites/encriptador-typescript-jaenfigueroa/deploys"><img src="https://api.netlify.com/api/v1/badges/607c3bdb-339b-499d-9a10-4d6501c90ca4/deploy-status"></img></a>
 
 </div>
 
